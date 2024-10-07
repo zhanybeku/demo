@@ -6,7 +6,3 @@ Sad to see you go...
 Cram ram bam
 Param baram
 AAAaaaaaaa
-
-New new new new!!!! <- Supposed to be in the "feature" branch.
-
-Some more changes for "feature" branch.
